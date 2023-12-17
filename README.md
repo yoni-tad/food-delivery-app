@@ -7,7 +7,7 @@ This project is a Flutter UI implementation of a Food Delivery App. It showcases
 ## Screenshots
 
 ![Home Screen](assets/screenshot/one.png)
-![Item Details Screen](assets/screenshot/one.png)
+![Item Details Screen](assets/screenshot/two.png)
 
 ## Installation
 
